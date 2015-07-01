@@ -1,0 +1,34 @@
+{
+  "name": "custom-storage",
+  "description": "Javascript storage for sharing data between NodeJS files and browser",
+  "version": "0.1",
+  "keywords": [
+    "storage",
+    "store",
+    "NodeJS",
+    "server"
+  ],
+  "maintainers": [
+    {
+      "name": "Denis Perepelicin",
+      "email": "piranyad@gmail.com",
+      "web": "https://github.com/execmd"
+    }
+  ],
+  "bugs": {
+    "web": "https://github.com/execmd/custom-storage/issues"
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git@github.com:execmd/custom-storage.git"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "MIT",
+      "url": "https://github.com/execmd/custom-storage/blob/master/LICENSE"
+    }
+  ],
+  "homepage": "https://github.com/execmd/custom-storage"
+}
